@@ -35,3 +35,4 @@ var newTypesArray = Object.keys(map).sort(function (a, b) {
 });
 var o = newTypesArray[0]-1
 console.log(arr[o].res)
+//this is a comment
